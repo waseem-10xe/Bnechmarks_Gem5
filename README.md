@@ -1,4 +1,4 @@
-#Benchmarks in gem5
+Benchmarks in gem5
 This repository contains C test programs used as benchmarks in gem5 across different CPU models. By analyzing the simulation statistics, we can derive key performance metrics. Below is an overview of the benchmarks and the performance parameters evaluated:
 
 Overview
