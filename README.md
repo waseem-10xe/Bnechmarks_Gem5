@@ -1,10 +1,10 @@
-Benchmarks in gem5
+# Benchmarks in gem5
 This repository contains C test programs used as benchmarks in gem5 across different CPU models. By analyzing the simulation statistics, we can derive key performance metrics. Below is an overview of the benchmarks and the performance parameters evaluated:
 
-Overview
+## Overview
 Purpose: To assess the performance of various CPU models in gem5 by executing C tests.
 Metrics Analyzed: The benchmarks focus on several critical performance parameters that help evaluate the efficiency and effectiveness of CPU architectures.
-Key Performance Parameters
+## Key Performance Parameters
 CPI (Cycles Per Instruction):
 
 Measures the average number of clock cycles each instruction takes to execute.
